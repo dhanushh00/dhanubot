@@ -1,0 +1,57 @@
+HOW TO RUN DHANU BOT LOCALLY 🖥️
+===============================
+
+These steps will help you run the DHANU Bot chatbot app on your own system using Python and Streamlit.
+
+----------------------------------
+🔧 STEP 1: INSTALL PYTHON (if needed)
+----------------------------------
+Visit https://www.python.org/downloads and install the latest Python version (3.9 or higher).
+
+-----------------------------------------
+📁 STEP 2: CLONE OR DOWNLOAD THE PROJECT
+-----------------------------------------
+Use Git:
+    git clone https://github.com/dhanushkandavel/dhanu-bot.git
+    cd dhanu-bot
+
+Or manually download and unzip the project folder.
+
+-----------------------------------------------------
+🧪 STEP 3: SET UP A VIRTUAL ENVIRONMENT (RECOMMENDED)
+-----------------------------------------------------
+Windows:
+    python -m venv venv
+    venv\Scripts\activate
+
+Mac/Linux:
+    python3 -m venv venv
+    source venv/bin/activate
+
+-----------------------------------------
+📦 STEP 4: INSTALL REQUIRED DEPENDENCIES
+-----------------------------------------
+Run:
+    pip install -r requirements.txt
+
+This installs Streamlit and the requests library.
+
+---------------------------------------------
+🔑 STEP 5: ADD YOUR TOGETHER AI API KEY
+---------------------------------------------
+1. Open `app.py`
+2. Find the line: 
+       API_KEY = "your_together_ai_api_key_here"
+3. Replace the string with your actual Together AI key from:
+       https://platform.together.xyz
+
+---------------------------------------
+🚀 STEP 6: RUN THE CHATBOT LOCALLY
+---------------------------------------
+Run this command in the terminal:
+    streamlit run app.py
+
+The app will launch in your browser at:
+    http://localhost:8501
+
+------------------------------------------

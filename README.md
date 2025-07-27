@@ -1,0 +1,33 @@
+# 🤖 DHANU Bot – Your Personal AI Assistant
+
+DHANU Bot is a sleek, AI-powered chatbot built with [Together AI's](https://platform.together.xyz) large language models and [Streamlit](https://streamlit.io). It allows you to have real-time conversations with an AI in a stylish, responsive, and customizable web interface.
+
+![DHANU Bot Screenshot](https://via.placeholder.com/1000x500.png?text=Screenshot+of+DHANU+Bot+App) <!-- Replace with your actual screenshot or remove -->
+
+---
+
+## 🧠 Features
+
+- ✨ Powered by Together AI's **Mistral 7B Instruct** model
+- 💡 Clean neo-light themed interface
+- 📝 Maintains full conversation history like GPT
+- 🛠️ Easy customization of models, prompts, and appearance
+- ⚡ Lightweight, fast, and deployable in minutes
+- 📌 Footer branding: “Developed by Dhanush” with GitHub/LinkedIn links
+
+---
+
+## 🚀 Live Demo
+
+You can try DHANU Bot live here (if deployed):  
+🔗 [https://dhanush-dhanu-bot.streamlit.app](https://dhanush-dhanu-bot.streamlit.app) *(Replace with your actual URL)*
+
+---
+
+## 📦 Installation & Usage
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/dhanushkandavel/dhanu-bot.git
+cd dhanu-bot
