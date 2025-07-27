@@ -23,11 +23,3 @@ You can try DHANU Bot live here (if deployed):
 🔗 [https://dhanubot-2lj5qnx5vfhojfkbvt2l25.streamlit.app/](https://dhanubot-2lj5qnx5vfhojfkbvt2l25.streamlit.app/) 
 
 ---
-
-## 📦 Installation & Usage
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/dhanushkandavel/dhanu-bot.git
-cd dhanu-bot
