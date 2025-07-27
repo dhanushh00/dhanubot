@@ -20,7 +20,7 @@ DHANU Bot is a sleek, AI-powered chatbot built with [Together AI's](https://plat
 ## 🚀 Live Demo
 
 You can try DHANU Bot live here (if deployed):  
-🔗 [https://dhanush-dhanu-bot.streamlit.app](https://dhanush-dhanu-bot.streamlit.app) *(Replace with your actual URL)*
+🔗 [https://dhanubot-2lj5qnx5vfhojfkbvt2l25.streamlit.app/](https://dhanubot-2lj5qnx5vfhojfkbvt2l25.streamlit.app/) 
 
 ---
 
