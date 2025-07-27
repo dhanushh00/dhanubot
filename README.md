@@ -1,8 +1,8 @@
 # 🤖 DHANU Bot – Your Personal AI Assistant
 
 DHANU Bot is a sleek, AI-powered chatbot built with [Together AI's](https://platform.together.xyz) large language models and [Streamlit](https://streamlit.io). It allows you to have real-time conversations with an AI in a stylish, responsive, and customizable web interface.
+<img width="1194" height="773" alt="image" src="https://github.com/user-attachments/assets/501ab138-de91-4e0d-9054-7037694ba01a" />
 
-![DHANU Bot Screenshot](https://via.placeholder.com/1000x500.png?text=Screenshot+of+DHANU+Bot+App) <!-- Replace with your actual screenshot or remove -->
 
 ---
 
